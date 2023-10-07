@@ -1,4 +1,3 @@
-// 221RDB389 Lauma Gailīte 1. kurss 2. grupa
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
